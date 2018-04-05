@@ -1,0 +1,17 @@
+Nmshell Report
+Generated : 2018-04-05 18:02:38.780701
+
+Scan type : TCP
+                    |  20   |  21   |  22   |  23   |  80   |  139  |  443  |  445  | 3306  
+# 1    192.168.1.1  | filt. | filt. | filt. | filt. | open  | open  | open  | open  | filt. 
+# 2   192.168.1.13  | filt. | filt. | filt. | filt. | filt. | filt. | filt. | filt. | filt. 
+# 3   192.168.1.19  |closed |closed |closed |closed |closed |closed |closed |closed |closed 
+# 4   192.168.1.23  | filt. | filt. | filt. | filt. | filt. | filt. | filt. | filt. | filt. 
+# 5   192.168.1.25  |closed |closed |closed |closed | open  | open  | open  | open  |closed 
+# 6   192.168.1.31  |closed |closed |closed | open  | open  |closed | open  |closed |closed 
+# 7   192.168.1.42  |closed |closed | open  |closed |closed |closed |closed |closed |closed 
+
+=======================================================================================================
+
+Done: Thu Apr  5 18:02:19 2018(9.17s)
+Host(s) up: 9 /250
