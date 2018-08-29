@@ -13,6 +13,7 @@ Simple scan on a port range :
 ```
 set port 80,81
 set target 192.168.1-50
+scan
 ```
 
 The target can be an IP address or a range ( from-to.from-to.from-to.from-to)
